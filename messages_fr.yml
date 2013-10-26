@@ -2,7 +2,7 @@
 unknown_user: '&fUtilisateur non enregistré'
 unsafe_spawn: '&fTéléportation dans un endroit sûr'
 not_logged_in: '&cNon connecté!'
-reg_voluntarily: '&fVous venez d''arriver? faites un "/register motdepasse confirmermotdepasse"'
+reg_voluntarily: '&fVous venez d'arriver? faites un "/register motdepasse confirmermotdepasse"'
 usage_log: '&cUtilisez: /login motdepasse'
 wrong_pwd: '&cMauvais MotdePasse'
 unregistered: '&cCe compte a été supprimé!'
